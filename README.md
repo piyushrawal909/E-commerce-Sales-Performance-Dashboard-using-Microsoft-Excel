@@ -5,8 +5,7 @@ This project analyzes an Ecommerce Sales dataset containing over 3,500+ transact
 
 ## Dashboard
 
-![Dashboard](E-Commerce Sales Performance Dashboard.jpg
-)
+![Dashboard](E-Commerce-Sales-Performance-Dashboard.jpg)
 
 # 1. Introduction to My Dataset
 - Data Source & Volume: The Project Analyses an Ecommerce Sales Dataset consisting of over 3,500 rows of transactional records spanning three consecutive years (2022–2024).
